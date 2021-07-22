@@ -4,7 +4,7 @@
 #
 Name     : pyroute2.ipset
 Version  : 0.6.4
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/ca/9b/8b2fc38bda31a3e35db69b60f7227e6ee0a6b09f78a70f7c55bd74d80209/pyroute2.ipset-0.6.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ca/9b/8b2fc38bda31a3e35db69b60f7227e6ee0a6b09f78a70f7c55bd74d80209/pyroute2.ipset-0.6.4.tar.gz
 Summary  : Python Netlink library: ipset
